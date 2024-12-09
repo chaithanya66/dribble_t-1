@@ -1,0 +1,140 @@
+.main-{
+    margin: 10px;
+    width: 1475px;
+    height: 700px;
+    background-color: #f0edee;
+    margin-top: 20px;
+}
+.top-{
+    display: flex;
+    align-items: center;
+}
+.name{
+    margin: 30px;
+    margin-left: 90px;
+    font-size: 40px;
+}
+.name span{
+    color: #dd574b;
+    font-size: 50px;
+}
+.nav- .items{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+.items{
+    margin-left: 80px;
+}
+.nav-{
+    flex-grow: 1;
+    margin-top: 20px;
+    margin-left: 170px;
+}
+.conbut{
+    border: 2px solid #dd574b;
+    padding: 15px;
+    background: none;
+    margin-top: 20px;
+    margin-right: 80px;
+}
+main{
+    margin-left: 90px;
+    display: flex;
+}
+.para{
+    font-size: 30px;
+}
+.para-{
+    color: grey;
+}
+.buttonss{
+    margin-top: 40px;
+}
+.but1{
+    background-color: #dd574b;
+    color: white;
+    border: none;
+    padding: 12px;
+    width: 120px;
+}
+.but2{
+    margin-left: 20px;
+    border: 2px solid #dd574b;
+    padding: 10px;
+    width: 120px;
+}
+.atom{
+    mix-blend-mode: multiply;
+}
+.mini{
+    display: flex;
+}
+.mini p{
+    margin-top: 65px;
+    margin-left: 20px;
+    color: grey;
+}
+.pyramid{
+    width: 150px;
+    height: 150px;
+    border-left: 50px solid black;
+}
+.trapozoid{
+    border-bottom: 230px solid #7873f5;
+	border-left: 115px solid transparent;
+	border-right: 115px solid transparent;
+	height: 0;
+	width: 250px;
+}
+.sider{
+    margin-right: 100px;
+    margin:100px;
+}
+.foot{
+    margin-top: 60px;
+    display:flex;
+    justify-content: space-evenly;
+}
+.box-{
+    height: 150px;
+    width: 150px;
+    background-color: #401fa4;
+    color: white;
+    text-align: center;
+}
+.box- span{
+    font-size: 40px;
+}
+.box1-{
+    text-align: center;
+}
+.box1- span{
+    font-size: 30px;
+}
+.box1- p{
+    color: grey;
+}
+.tri{
+    margin-left: 200px;
+}
+.trapozoid{
+    margin-top: 90px;
+    margin-left: 300px;
+}
+.company{
+    mix-blend-mode: multiply;
+    margin-top: 30px;
+    display: flex;
+}
+.advi{
+    mix-blend-mode: multiply;
+}
+.sider{
+    display: flex;
+}
+.sider .advi-{
+    width: 270px;
+    height: 450px;
+    transform: translate(-380px,-130px);
+}
